@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("./images/background.jpeg");
+    background-repeat: no-repeat;
+}
+
+body::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    z-index: -1;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    margin-right: 20px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+main{
+    margin: 100px 20px;
+    font-family: "Rubik Wet Paint", system-ui;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    text-shadow: 2px 2px 4px #000000;
+    min-height: 70vh;
+}
+
+h1{
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+h3{
+    margin: 30px 5px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: #fff;
+    text-align: center;
+}
