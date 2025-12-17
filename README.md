@@ -135,30 +135,11 @@ Submit a new paranormal sighting.
 3. Submit the form
 4. Your sighting will be added to the collection
 
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 Copyright (c) 2025 Cazacu Ion
-
-## 🙏 Acknowledgments
-
-- Thanks to all contributors who share their paranormal experiences
-- Inspired by the mysterious and unexplainable encounters around the world
-
-## 📞 Contact
-
-Project Link: [https://github.com/zakur0-Sit/HauntLog](https://github.com/zakur0-Sit/HauntLog)
 
 ---
 
