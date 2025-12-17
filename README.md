@@ -1,6 +1,10 @@
 # HauntLog 👻
 
 A platform where people can share their personal ghostly encounters and read the paranormal experiences of others. Discover eerie stories from around the world or write your own.
+<img width="1857" height="977" alt="image" src="https://github.com/user-attachments/assets/a1987811-d209-430d-87be-29268186903f" />
+
+<img width="1830" height="973" alt="image" src="https://github.com/user-attachments/assets/765f30fe-fff7-46e0-b284-6cb8bdf0ea94" />
+
 
 ## 📖 About
 
